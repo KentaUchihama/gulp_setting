@@ -76,3 +76,4 @@ const watchFiles = () => {
 
 // Defaule output
 exports.default = series(compireEjs, compireSass, watchFiles);
+# gulp_setting
