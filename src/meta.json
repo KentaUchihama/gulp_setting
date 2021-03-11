@@ -1,0 +1,18 @@
+{
+  "default": {
+    "fav": "https://faviconurl",
+    "title": "タイトル",
+    "description": "ディスクリプション！",
+    "url": "https://siteurl",
+    "ogp_img": "ogp画像",
+    "keywords": "キーワード",
+    "img_url": "https://imgurl"
+  },
+  "top": {
+    "sitename": ""
+  },
+  "about": {
+    "title": "アバウト",
+    "url": "https://exsample.com/about/"
+  }
+}

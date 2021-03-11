@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.sass","style.css"],"names":[],"mappings":"AAAA;EACE,WAAW;ACCb","file":"../style.css","sourcesContent":["h1 {\n  color: #fff; }\n","h1 {\n  color: #fff;\n}\n"]}
